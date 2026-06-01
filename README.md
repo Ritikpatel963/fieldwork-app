@@ -1,4 +1,4 @@
-# AMPL Fieldwork Starter
+# fieldwork-app
 
 This workspace contains a starter scaffold for a cross-platform React Native mobile app and a Laravel backend API with admin panel support.
 
